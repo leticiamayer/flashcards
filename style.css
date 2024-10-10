@@ -1,0 +1,10 @@
+body{
+    background-color: lightblue;
+}
+footer{
+    background-color: cornflowerblue;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
