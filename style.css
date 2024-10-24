@@ -27,4 +27,15 @@ footer p {
 .cartao_conteudo{
     text-align: center;
     background-color: rgba(89, 151, 243, 0.74);
+    height: 100%;
+
+}
+.cartao_conteudo h3{
+    background-color: rgba(53, 93, 167, 0.863);
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
 }
